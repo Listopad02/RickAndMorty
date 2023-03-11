@@ -1,0 +1,12 @@
+.navbar {
+    background-color: rgb(50, 43, 43);
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.navbar__link-href {
+    color: aliceblue;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0 0 0 30px;
+}
